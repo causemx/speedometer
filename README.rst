@@ -1,15 +1,10 @@
-Speedometer
-===========
+Speedometer_simple
+==================
 
-Measure and display the rate of data across a network connection or data being stored in a file.
-
-* `Speedometer Home Page <http://excess.org/speedometer/>`_
+Measure and display the rate of data across a network connection through command line.
 
 Screen Shots
 ------------
 
-.. image:: http://excess.org/media/speedometer-transp1.png
+.. image:: http://i.imgur.com/JfYfEpz.png
    :alt: speedometer screen shot w/ transparent bg
-
-.. image:: http://excess.org/media/speedometer-light16.png
-   :alt: speedometer screen shot w/ multiple graphs
